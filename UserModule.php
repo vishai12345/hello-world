@@ -1,5 +1,5 @@
 <?php
-//hi
+//hi hi hi
 
 class UserModule extends CWebModule
 {
